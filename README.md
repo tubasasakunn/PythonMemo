@@ -6,7 +6,7 @@
 でfrom_dir内の全てのEXTSのファイルをto_dirに移動できる．
 ファイル名は相対パスの/を無くしたもの
 
-##conect.py
+## conect.py
 ```python conect.py dir```
 
 でdir内の画像を結合できる．想定している構造は
